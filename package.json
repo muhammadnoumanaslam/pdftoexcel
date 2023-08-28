@@ -6,7 +6,7 @@
     "multer": "^1.4.5-lts.1",
     "pdf-to-excel": "^0.3.2"
     "scripts": {
-              "start": "node index.js"
+              "start": "node app.js"
            }
   }
 }
